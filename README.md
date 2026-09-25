@@ -4,9 +4,9 @@ Trabajo práctico grupal de Programación Orientada a Objetos.
 
 ## Integrantes
 - Daniel Chacón
-- (Integrante 2)
-- (Integrante 3)
-- (Integrante 4)
+- Pamela Chicosky
+- Tomas Velles
+- Ignacio Armas Netri
 
 ## Cómo ejecutarlo
 python main.py
